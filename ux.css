@@ -12,7 +12,7 @@ dialog>header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
     gap: 10px;
 }
 
