@@ -6,6 +6,7 @@ A customizable dialog component with a clean and modern design. Features include
 - Customizable header with multiple button types
 - Smooth transitions and hover effects
 - Mobile-first design approach
+- Backdrop support for modal dialogs
 - Easy to integrate and style
 
 ## Features
@@ -14,6 +15,7 @@ A customizable dialog component with a clean and modern design. Features include
 - **Responsive Design**: Adapts to different screen sizes
 - **Customizable**: Easily modify colors, spacing, and other styles
 - **Accessible**: Proper semantic HTML and ARIA attributes
+- **Backdrop Support**: Customizable modal backdrop
 
 ## Usage
 
