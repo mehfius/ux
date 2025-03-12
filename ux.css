@@ -25,7 +25,7 @@ dialog>header>label {
     height: 25px;
     background-color: #00000020;
     padding: 10px 15px;
-    border-radius: 25px;
+    border-radius: 5px;
     flex-grow: 1;
     text-align: center;
     text-wrap-mode: nowrap;
@@ -39,7 +39,7 @@ dialog>header>button {
     transition: box-shadow 0.1s ease;
     background-color: #00000020;
     padding: 10px 15px;
-    border-radius: 25px;
+    border-radius: 5px;
     border: 0;
     color: #fff;
     font-size: 100%;   
