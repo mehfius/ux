@@ -126,9 +126,10 @@ dialog>buttons {
     margin: 20px 0;
 }
 
-dialog>buttons>button{
+dialog>buttons>button {
     cursor: pointer;
     display: flex;
+    align-items: center;
     transition: box-shadow 0.1s ease;
     background-color: #00000020;
     padding: 10px 15px;
