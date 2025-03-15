@@ -8,8 +8,12 @@ body {
     background-color: #282828;
 }
 
-button, input {
+button {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input{
+    font-family: consolas;
 }
 
 dialog {
