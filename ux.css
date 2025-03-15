@@ -8,7 +8,7 @@ body {
     background-color: #282828;
 }
 
-button {
+button, input {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
